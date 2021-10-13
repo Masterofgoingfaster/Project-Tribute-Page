@@ -1,0 +1,63 @@
+h1 {
+	font-size: 50px;
+	text-align: center;	
+}
+
+#image {
+	display: block;
+	margin: auto;
+	width: 25%;
+	height: auto;
+	max-width: 100%;
+	
+	
+
+
+}
+#img-caption {
+	font-size: 15px;
+	text-align: center;
+}
+div {
+	font-size: 30px;
+	text-align: left;
+	margin-right: 50px;
+	margin-left: 50px;
+	
+}
+
+a:target {
+	target="_blank"
+}
+
+
+
+a:hover {
+	background-color: yellow;
+
+}
+
+footer {
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 100px;
+}
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;margin-bottom: 100px;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
